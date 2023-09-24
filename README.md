@@ -1,10 +1,11 @@
 # JustRobinPrivacyPolicy
 
 Privacy Policy
+
 Last Updated: September 24, 2023
 
 Definitions:
-"My Apps" — Refers to mobile applications that are developed for the Android operating system and published on the Google Play Store by Just Robin Studios.
+"My Apps" — Refers to mobile applications that are developed for the Android operating system and published on the Google Play Store by Just Robin Studio.
 
 "Author" — Refers to my brand name "Just Robin" which is me. By myself.
 
